@@ -1,0 +1,54 @@
+{
+  "_from": "hexo-jwt",
+  "_id": "hexo-jwt@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QEzQFTOAR+rd8gW0d14iH3YnTq/3ixqt07hAI5IHsgpTBNMTZuhnfYzhR60T9JcSO8ciF3hf2p2oyF2Rl13XCw==",
+  "_location": "/hexo-jwt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-jwt",
+    "name": "hexo-jwt",
+    "escapedName": "hexo-jwt",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-jwt/-/hexo-jwt-1.0.0.tgz",
+  "_shasum": "b1582d48833d864c2f2c9e2c79a3d4cdfa627664",
+  "_spec": "hexo-jwt",
+  "_where": "E:\\",
+  "author": {
+    "name": "eminoda"
+  },
+  "bugs": {
+    "url": "https://github.com/eminoda/hexo-jwt/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "jsonwebtoken": "^8.3.0"
+  },
+  "deprecated": false,
+  "description": "encrypt something by JWT",
+  "homepage": "https://github.com/eminoda/hexo-jwt#readme",
+  "keywords": [
+    "hexo",
+    "jwt"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "hexo-jwt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eminoda/hexo-jwt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
