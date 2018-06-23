@@ -1,5 +1,5 @@
 # hexo-jwt
-encrypt something by JWT, if you want to someone can read your blog when he is authed; 
+encrypt something by JWT, if you want to someone can read your blog when the bolg is decoded after he was authed; 
 
 # 中文说明
 [链接](./README_CN.md)

@@ -40,7 +40,7 @@
     "hexo",
     "jwt"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "main": "index.js",
   "name": "hexo-jwt",
   "repository": {
